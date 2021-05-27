@@ -16,5 +16,3 @@ Projekt jest kompletny i został zakończony. Został wykonany na potrzeby zalic
 * w3schools.com
 * https://getbootstrap.com/
 
-## Ilustracje
-![Rejestracja](‪C:\Users\User\Desktop\1.png)
