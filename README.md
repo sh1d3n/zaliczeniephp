@@ -14,6 +14,8 @@ lekarza do pacjenta wraz z wyznaczoną datą. Pacjent po zalogowaniu widzi zwrot
 ## Technologie
 * PHP
 * Bootstrap
+* PhpStorm version 2021.1.1.
+* PHP version 8.0.3
 
 ## Status projektu
 Projekt jest kompletny i został zakończony. Został wykonany na potrzeby zaliczenia przedmiotu na uczelni Wyższej Szkoły Bankowej w Gdańsku.
